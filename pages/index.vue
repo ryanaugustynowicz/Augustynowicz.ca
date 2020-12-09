@@ -22,7 +22,7 @@ export default {
   },
   head() {
     return {
-      title: 'Ryan Augustynowicz - Software Developer in London Ontario'
+      title: 'Ryan Augustynowicz - Software Developer'
     }
   },
   data() {
