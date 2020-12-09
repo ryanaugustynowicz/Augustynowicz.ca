@@ -3,7 +3,7 @@
     <section class="section">
       <h1 class="title">Ryan Augustynowicz</h1>
       <h2 class="subtitle">Software Developer at the <a href="http://cdp.uwo.ca/">Centre for Digital Philosophy</a></h2>
-      <p>Interests: <b>Software development, Veganism, Animals,</b> Fitness, Travel, Philosophy, Sociology</p> 
+      <p>Interests: <b>Software development, Veganism, Animals,</b> Fitness, Travel</p> 
       <br />
       <span v-for="image in images" v-bind:key="image.pathLong"> 
         <img :src="image.pathLong" class="featured-image">
